@@ -1,6 +1,6 @@
 # Todo API
 
-A .NET 8 Web API for managing todos with PostgreSQL database, Entity Framework Core, and Docker support.
+A .NET 8 Web API for managing todos with PostgreSQL database, Entity Framework Core, and Docker support.(Copilot review)
 
 ## Features
 
